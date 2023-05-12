@@ -29,60 +29,6 @@
             "description": "Hold your body in a straight line from head to toe, supported by your forearms and toes",
             "addToWorkout": false,
             "icon_url": "https://cdn.pixabay.com/photo/2017/02/10/09/38/plank-2054729_960_720.jpg"
-        },
-        {
-            "name": "Bench Press",
-            "description": "Lay flat on a bench and push a barbell away from your chest",
-            "addToWorkout": false,
-            "icon_url": "https://www.shutterstock.com/image-illustration/closegrip-barbell-bench-press-3d-260nw-430936051.jpg"
-        },
-        {
-            "name": "Deadlift",
-            "description": "Lift a barbell from the ground to your hips",
-            "addToWorkout": false,
-            "icon_url": "https://manofmany.com/wp-content/uploads/2020/11/How-to-Deadlift.jpg"
-        },
-       {
-            "name": "Overhead Press",
-            "description": "Lift a barbell from your shoulders to above your head",
-            "addToWorkout": false,
-            "icon_url": "https://experiencelife.lifetime.life/wp-content/uploads/2021/08/f2-overhead-press.jpg"
-        },
-        {
-            "name": "Bent Over Rows",
-            "description": "Bend over with a barbell in your hands and pull the bar towards your chest",
-            "addToWorkout": false,
-            "icon_url": "https://experiencelife.lifetime.life/wp-content/uploads/2021/03/How-to-Perform-the-Bent-Over-Row.jpg"
-        },
-        {
-            "name": "Barbell Curls",
-            "description": "Hold a barbell with your hands and curl it towards your chest",
-            "addToWorkout": false,
-            "icon_url": "https://cdn.muscleandstrength.com/sites/default/files/barbell-curl.jpg"
-        },
-        {
-            "name": "Tricep Extensions",
-            "description": "Hold a barbell behind your head with your arms extended and then bend your elbows to lower the bar",
-            "addToWorkout": false,
-            "icon_url": "https://www.bodybuilding.com/images/2020/xdb/originals/2020-xdb-28c-rope-overhead-triceps-extension-m1.jpg"
-        },
-        {
-            "name": "Dumbbell Flys",
-            "description": "Lie on a bench with dumbbells in your hands and raise your arms out to the side",
-            "addToWorkout": false,
-            "icon_url": "https://www.jefit.com/images/exercises/1080_664/164.jpg"
-        },
-        {
-            "name": "Leg Press",
-            "description": "Push weights away from your body using a machine",
-            "addToWorkout": false,
-            "icon_url": "https://www.shutterstock.com/image-illustration/inclined-leg-press-3d-illustration-260nw-434632384.jpg"
-        },
-        {
-            "name": "Calf Raises",
-            "description": "Use a machine to raise and lower weights with your feet",
-            "addToWorkout": false,
-            "icon_url": "https://media1.popsugar-assets.com/files/thumbor/PXbcpm_SjAi9QE0ww_pPGCOHq5w/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2013/08/02/858/n/1922729/7612a600e8924039_calf-raise/i/Calf-Raises-Basic.jpg"
         }
     ]
 }
