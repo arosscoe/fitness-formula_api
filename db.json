@@ -39,7 +39,7 @@
         {
             "name": "Deadlift",
             "description": "Lift a barbell from the ground to your hips",
-            "addToWorkout": false
+            "addToWorkout": false,
             "icon_url": "https://manofmany.com/wp-content/uploads/2020/11/How-to-Deadlift.jpg"
         },
        {
